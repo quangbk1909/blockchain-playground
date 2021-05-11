@@ -1,0 +1,16 @@
+{
+  "name": "ether-metamask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quangnh",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.1.4",
+    "express": "^4.17.1",
+    "web3": "^1.3.5"
+  }
+}
